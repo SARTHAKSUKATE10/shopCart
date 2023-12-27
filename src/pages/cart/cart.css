@@ -40,3 +40,8 @@
     margin: 10px;
     cursor: pointer;
   }
+
+  .checkout h3{
+    display: flex;
+    justify-content: center;
+  }
